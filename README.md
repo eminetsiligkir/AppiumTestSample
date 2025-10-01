@@ -5,6 +5,8 @@ Bu proje, Android uygulamaları için Appium kullanılarak geliştirilmiş kapsa
 - Java
 - TestNG
 - Maven
+
+  
 🎯 Özellikler:
 - UI elementlerinin dinamik tanımlanması
 - Platform bağımsız test senaryoları
